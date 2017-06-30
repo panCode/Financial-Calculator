@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/satyajeet/App/android/app/build/intermediates/res/merged/release/drawable-nodpi-v4/oval_marker.png",
+        "source": "/home/satyajeet/App/android/app/build/intermediates/exploded-aar/App/react-native-mp-android-chart/unspecified/res/drawable-nodpi-v4/oval_marker.png"
+    },
+    {
+        "merged": "/home/satyajeet/App/android/app/build/intermediates/res/merged/release/drawable-nodpi-v4/rectangle_marker.png",
+        "source": "/home/satyajeet/App/android/app/build/intermediates/exploded-aar/App/react-native-mp-android-chart/unspecified/res/drawable-nodpi-v4/rectangle_marker.png"
+    }
+]
